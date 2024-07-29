@@ -1,0 +1,24 @@
+.service-page{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #eff2f1 ;
+}
+.service-page .service-page-content{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    gap: 40px;
+}
+.service-sofa{
+    height: 350px;
+    width: 400px;
+    position: relative;
+    left:-100px;
+    background-color:'';
+    top: -150px;
+    background-color:'';
+}
